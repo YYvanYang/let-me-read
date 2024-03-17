@@ -93,7 +93,7 @@ export default function BookDetails() {
             </ul>
             <p className="mt-4">
               Whether you’re looking to kickstart your programming journey, enhance your skills, or embark on new coding
-              projects, "Python Programming Projects: From Beginner to Advanced" is your go-to resource for mastering
+              projects, &quot;Python Programming Projects: From Beginner to Advanced&quot; is your go-to resource for mastering
               Python programming. Dive in and unlock the full potential of one of the most popular and versatile
               programming languages today.
             </p>
