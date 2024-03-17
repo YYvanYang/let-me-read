@@ -24,7 +24,7 @@ export default function BookDetails() {
           />
         </div>
         <div className="flex-grow ml-0 lg:ml-8">
-          <h1 className="text-2xl font-bold mt-4 lg:mt-0">Books About Python Coding: Beginner’s</h1>
+          <h1 className="text-2xl font-bold mt-4 lg:mt-0">{`Books About Python Coding: Beginner’s`}</h1>
           <p className="text-lg mt-1">by Kartik Bheel</p>
           <div className="mt-4">
             <p>Length: 54 pages</p>
@@ -92,10 +92,10 @@ export default function BookDetails() {
               </li>
             </ul>
             <p className="mt-4">
-              Whether you’re looking to kickstart your programming journey, enhance your skills, or embark on new coding
+              {`Whether you’re looking to kickstart your programming journey, enhance your skills, or embark on new coding
               projects, &quot;Python Programming Projects: From Beginner to Advanced&quot; is your go-to resource for mastering
               Python programming. Dive in and unlock the full potential of one of the most popular and versatile
-              programming languages today.
+              programming languages today.`}
             </p>
           </div>
         </Tabs>
