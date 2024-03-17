@@ -9,7 +9,7 @@ export default function BookList() {
     <main className="flex flex-col gap-8 p-8">
       <header className="flex justify-between items-center">
         <h1 className="text-3xl font-bold">
-          Discover a world of knowledge at your fingertips
+          Best Books to Read in a Lifetime
         </h1>
         <div className="flex gap-4">
           <input
